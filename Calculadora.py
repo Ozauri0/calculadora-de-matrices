@@ -3,8 +3,8 @@
 Calculadora de Matrices
 Una calculadora basada en consola para operaciones matriciales y métodos numéricos.
 
-Autor: [Tu nombre]
-Fecha: Mayo 2025
+Autores: Roberto Nieves, Christian Ferrer, Anahí Adamaco, Rodrigo Altamirano
+Fecha: 12 de Mayo 2025
 """
 
 def print_matrix(matrix, precision=4):
